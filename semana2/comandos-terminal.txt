@@ -1,0 +1,6 @@
+#comandos usados
+mkdir semana 2
+cd semana2
+is preguntas-semana2.txt
+is comandos-terminal.txt
+is reflexion-semana2.txt
