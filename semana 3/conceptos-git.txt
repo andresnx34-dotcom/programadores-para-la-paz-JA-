@@ -1,0 +1,6 @@
+# repositorio
+espacio  virtual donde se almacena todo el historial de cambios y los archivos  de cambios de un proyecto
+# commit
+se refiere a una captura o instantania  de los cambios realizados  en los archivos  en un momento especifico cada commit
+# push 
+es el comando que se utiliza para enviar los commit realizados localmete hacia  un repositorio remoto 

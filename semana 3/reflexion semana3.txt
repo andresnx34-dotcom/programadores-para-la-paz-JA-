@@ -1,0 +1,1 @@
+git es fundamental porque permite guardar un historial  de cambios  del codigo lo que ayuda a corregir errores volviendo  a versiones anteriores  y facilitar el trabajo  en equipo  sin que los programadores borren el codigo de otros
