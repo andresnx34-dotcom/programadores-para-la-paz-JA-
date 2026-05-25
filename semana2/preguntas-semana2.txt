@@ -5,4 +5,3 @@ b
 pregunta 3
 c
 pregunta 4
-b
