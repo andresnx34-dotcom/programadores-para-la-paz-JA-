@@ -1,0 +1,3 @@
+Usar contraseñas fuertes y un gestor de contraseñas
+Activar la autenticación de dos factores (2FA)
+No compartir credenciales.

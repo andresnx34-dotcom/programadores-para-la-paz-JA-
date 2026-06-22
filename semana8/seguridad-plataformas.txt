@@ -1,0 +1,9 @@
+Moderación descentralizada o por reportes
+
+Verificación de identidad progresiva
+
+Roles y permisos basados en privilegios mínimos
+
+Cifrado de datos y almacenamiento seguro
+
+Herramientas de privacidad del perfil para el usuario
