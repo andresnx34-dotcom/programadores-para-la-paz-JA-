@@ -1,0 +1,3 @@
+La llegada de un nuevo correo electrónico a una cuenta de soporte técnica (usando el nodo Gmail Trigger o IMAP Email).
+Alerta de Soporte: Se ha recibido un nuevo ticket de ayuda. Por favor, revisa el panel de control para más detalles."
+No deben incluirse el cuerpo completo del mensaje del cliente, contraseñas temporales, correos electrónicos personales, números de teléfono ni adjuntos que contengan datos de facturación.

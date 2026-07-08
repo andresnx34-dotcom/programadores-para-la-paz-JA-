@@ -1,0 +1,5 @@
+Como ciudadano, quiero adjuntar fotos o videos a mi reporte para que la evidencia de la incidencia sea irrefutable.
+Como administrador, quiero categorizar las incidencias (salud, infraestructura, seguridad) para asignar el caso al equipo correspondiente.
+Como veedor, quiero generar un reporte mensual de incidencias resueltas para transparentar la gestión ante la comunidad.
+Como ciudadano, quiero recibir notificaciones sobre el cambio de estado de mi reporte para saber que está siendo atendido.
+Como usuario, quiero filtrar el mapa de incidencias por zona para identificar los problemas más recurrentes en mi barrio.
