@@ -1,0 +1,6 @@
+Selecciona aquellas que representen el núcleo de la funcionalidad (MVP) o que resuelvan un bloqueo técnico.
+Porque aportan el mayor valor al usuario final o reducen la incertidumbre técnica del proyecto de forma temprana.
+Para mí, que una tarea esté "terminada" significa que ha superado todos los controles de calidad necesarios para ser entregada al usuario sin necesidad de trabajo adicional.
+Cumple los requisitos: La funcionalidad hace exactamente lo que se describió en la tarea.
+Código limpio y revisado: El código sigue los estándares del equipo y fue revisado por otro compañero (Peer Review).
+Desplegable: La tarea pasa todas las pruebas automáticas y está lista para ser subida al entorno de producción o pruebas.
