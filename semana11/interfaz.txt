@@ -1,0 +1,6 @@
+Formulario de Creación: En la parte superior, un formulario con campos para el título de la causa, una descripción detallada y la fecha de inicio. Incluirá un botón de "Publicar Causa".
+Vista de Causas Disponibles: Un listado central donde se mostrarán todas las causas comunitarias activas en formato de tarjetas o filas.
+Sistema de Interacción: Cada causa dentro del listado contará con:
+Un Botón de Apoyo (ej. "Apoyar esta causa") claramente visible.
+Un Contador de Apoyos que se actualice en tiempo real para mostrar el número total de personas interesadas.
+Privacidad y Estética: El diseño será limpio y minimalista, priorizando la legibilidad y garantizando que no se visualice ningún dato privado de los usuarios que crean o apoyan las causas.

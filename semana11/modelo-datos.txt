@@ -1,0 +1,16 @@
+Entidad: Usuario
+Campos principales:
+idnombre_completo
+email
+fecha_registro
+Identificar y gestionar a los miembros de la plataforma comunitaria que interactúan con las causas.
+
+
+Entidad: Comentario
+Campos principales:
+id
+causa_id
+usuario_id
+contenido
+fecha_publicacion
+Permitir que los usuarios dejen mensajes o retroalimentación en las causas para fomentar la interacción social.
