@@ -1,0 +1,3 @@
+Evento que activa la automatización: Un usuario rellena un formulario de contacto en el sitio web de la empresa.
+Mensaje que se envía: Un bot de Telegram envía un mensaje al grupo de atención al cliente diciendo: "Nuevo mensaje de contacto recibido de [Nombre del Usuario]".
+Información que no debe enviarse por seguridad: Nunca deben incluirse en el mensaje datos sensibles como contraseñas, números de tarjetas de crédito, o direcciones físicas detalladas para proteger la privacidad del usuario.

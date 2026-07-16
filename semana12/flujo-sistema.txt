@@ -1,0 +1,6 @@
+El ciudadano inicia sesión y completa un formulario breve para crear una nueva causa.
+El sistema valida los datos e ingresa la petición en la base de datos centralizada.
+El ciudadano comparte el enlace de la causa para que otros usuarios ingresen y la apoyen.
+El sistema registra y contabiliza cada apoyo recibido en tiempo real.
+Al alcanzar el objetivo de firmas, el sistema genera automáticamente un documento PDF oficial.
+El sistema envía el PDF por correo electrónico al creador de la causa y a la entidad correspondiente.

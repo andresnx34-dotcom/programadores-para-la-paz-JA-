@@ -1,0 +1,12 @@
+Entidad: Causa
+Propósito: Almacena la información de las iniciativas o proyectos que buscan apoyo.
+id: Identificador único de la causa.
+titulo: Nombre o encabezado de la iniciativa.
+descripcion: Detalle de los objetivos de la causa.
+fecha: Momento en que se creó la causa.
+Entidad: Apoyo
+Propósito: Registra las interacciones, firmas o donaciones que recibe una causa específica.
+id: Identificador único del apoyo.
+causa_id: Relación directa que vincula el apoyo con la causa correspondiente.
+nombre: Identidad de la persona que brinda el soporte.
+fecha: Momento exacto en el que se realizó el apoyo.
